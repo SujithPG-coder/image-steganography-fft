@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/GUI-Tkinter-informational" alt="Tkinter">
   <img src="https://img.shields.io/badge/DSP-FFT%20%7C%20DCT-orange" alt="DSP">
-  <img src="https://img.shields.io/badge/Tests-pytest%20passing-brightgreen" alt="Tests">
+  <a href="https://github.com/SujithPG-coder/image-steganography-fft/actions/workflows/tests.yml"><img src="https://github.com/SujithPG-coder/image-steganography-fft/actions/workflows/tests.yml/badge.svg" alt="Tests"></a>
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
