@@ -1,0 +1,2 @@
+pytest>=7.0
+scikit-image>=0.21   # only for generating README figures
